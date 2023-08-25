@@ -1,0 +1,11 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{\PYGZbs{}item} 本社之社務如下：
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}enumerate\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}item} 推廣開源文化
+\PYG{k}{\PYGZbs{}item} 促進校園開源精神
+\PYG{k}{\PYGZbs{}item} 協助辦理開源相關學術活動
+\PYG{k}{\PYGZbs{}item} 協助實施開源相關計畫
+\PYG{k}{\PYGZbs{}item} 其他與本社創社宗旨有關業務
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}enumerate\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}enumerate\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}

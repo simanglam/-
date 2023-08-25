@@ -1,0 +1,13 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYGZlt{}\PYGZlt{}preamble\PYGZgt{}\PYGZgt{}
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}maketitle}
+\PYGZlt{}\PYGZlt{}更改紀錄\PYGZgt{}\PYGZgt{}
+\PYG{k}{\PYGZbs{}begin}\PYG{n+nb}{\PYGZob{}}enumerate\PYG{n+nb}{\PYGZcb{}}
+\PYGZlt{}\PYGZlt{}總則\PYGZgt{}\PYGZgt{}
+\PYGZlt{}\PYGZlt{}社員入社、退社與除名\PYGZgt{}\PYGZgt{}
+\PYGZlt{}\PYGZlt{}社員權利與義務\PYGZgt{}\PYGZgt{}
+\PYGZlt{}\PYGZlt{}組織與職權\PYGZgt{}\PYGZgt{}
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}enumerate\PYG{n+nb}{\PYGZcb{}}
+\PYG{k}{\PYGZbs{}end}\PYG{n+nb}{\PYGZob{}}document\PYG{n+nb}{\PYGZcb{}}
+\end{Verbatim}
